@@ -1,0 +1,14 @@
+artifact_uri: file:///home/amit/Projects/AI_Projects/Churn-Prediction/mlruns/514780641159666987/24176b1e26c347dcb232f4c0d1743661/artifacts
+end_time: 1789247807570
+entry_point_name: ''
+experiment_id: '514780641159666987'
+lifecycle_stage: active
+run_id: 24176b1e26c347dcb232f4c0d1743661
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789247806855
+status: 3
+tags: []
+user_id: amit

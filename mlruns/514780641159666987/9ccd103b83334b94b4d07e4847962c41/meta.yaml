@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amit/Projects/AI_Projects/Churn-Prediction/mlruns/514780641159666987/9ccd103b83334b94b4d07e4847962c41/artifacts
+end_time: 1789246968008
+entry_point_name: ''
+experiment_id: '514780641159666987'
+lifecycle_stage: active
+run_id: 9ccd103b83334b94b4d07e4847962c41
+run_name: LogisticRegression
+run_uuid: 9ccd103b83334b94b4d07e4847962c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789246962882
+status: 3
+tags: []
+user_id: amit

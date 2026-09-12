@@ -1,0 +1,10 @@
+artifact_location: file:///home/amit/Projects/AI_Projects/Churn-Prediction/mlruns/514780641159666987/models/m-a7d1615bd271458488f943bb153ed132/artifacts
+creation_timestamp: 1789247806484
+experiment_id: '514780641159666987'
+last_updated_timestamp: 1789247806851
+model_id: m-a7d1615bd271458488f943bb153ed132
+model_type: null
+name: model_logisticregression
+source_run_id: 29547e143dcd41cc865b8a8e0cb0f59b
+status: 2
+status_message: null

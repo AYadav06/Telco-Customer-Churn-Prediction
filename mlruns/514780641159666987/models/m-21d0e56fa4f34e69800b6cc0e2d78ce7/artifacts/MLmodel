@@ -1,0 +1,23 @@
+artifact_path: file:///home/amit/Projects/AI_Projects/Churn-Prediction/mlruns/514780641159666987/models/m-21d0e56fa4f34e69800b6cc0e2d78ce7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.16.0
+model_id: m-21d0e56fa4f34e69800b6cc0e2d78ce7
+model_size_bytes: 3831748
+model_uuid: m-21d0e56fa4f34e69800b6cc0e2d78ce7
+prompts: null
+run_id: 24176b1e26c347dcb232f4c0d1743661
+utc_time_created: '2026-09-12 21:16:47.465228'
