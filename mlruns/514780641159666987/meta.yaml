@@ -1,6 +1,0 @@
-artifact_location: file:///home/amit/Projects/AI_Projects/Churn-Prediction/mlruns/514780641159666987
-creation_time: 1789246962359
-experiment_id: '514780641159666987'
-last_update_time: 1789246962359
-lifecycle_stage: active
-name: telco-customer-churn
