@@ -103,7 +103,7 @@ Models decay in production due to changing market conditions and customer behavi
 
 ### 1. Environment Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AYadav06/Telco-Customer-Churn-Prediction.git
 cd churn-predictor
 python -m venv .venv
 source .venv/bin/activate

@@ -1,0 +1,17 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.github
+mlruns
+mlartifacts
+*.db
+.pytest_cache
+.coverage
+htmlcov
+.DS_Store
+*.swp
+todo.md
